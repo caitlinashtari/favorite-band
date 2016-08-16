@@ -1,0 +1,19 @@
+img {
+  float: left;
+}
+
+.sidebard {
+  float: right;
+  background-color: yellow;
+  width: 300px
+}
+
+.column {
+  width: 300px;
+  float: left;
+
+}
+
+.sidebar {
+  font-weight: bolder;
+}
